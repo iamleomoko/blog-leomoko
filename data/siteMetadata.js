@@ -16,6 +16,8 @@ const siteMetadata = {
   facebook: 'https://www.facebook.com/iamleomoko',
   youtube: 'https://www.youtube.com/@iamleomoko',
   linkedin: 'https://www.linkedin.com/in/iamleomoko/',
+  unsplash: 'https://unsplash.com/@iamleomoko',
+  instagram: 'https://www.instagram.com/iamleomoko/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
